@@ -1,0 +1,128 @@
+---
+import PageLayout from '@/layouts/PageLayout.astro';
+import CardMedia from '@/components/CardMedia/CardMedia.astro';
+import { Icon } from 'astro-icon/components';
+import Button from '@/components/Button/Button.astro';
+---
+
+<PageLayout
+  h1="Руководства по эксплуатации"
+  title={`Руководства по эксплуатации`}
+  description=""
+  breadcrumb={[{name:"Руководства по эксплуатации",href:""}]}
+>
+  <div class="mb-10">
+    <CardMedia imgPlacement="right">
+      <Fragment slot="card-image">
+        <img 
+          src="https://cdn.alexsab.ru/pages/livan/livan-samara/parts/s6pro.webp" 
+          alt="Каталог аксессуаров LIVAN S6PRO" 
+          class="w-full h-full object-cover"
+        />
+      </Fragment>
+      <Fragment slot="card-content">
+        <div>
+          <h3 class="text-2xl font-bold mb-4">LIVAN S6PRO</h3>
+          <p>
+            <a target="_blank" href="https://cdn.alexsab.ru/pages/livan/livan-samara/manuals/s6pro-manual.pdf" class="text-gray-700 mb-4 flex items-center gap-1">
+              <Icon name="mdi:zip-box-outline" class="text-xl" />
+              <span>Руководство по эксплуатации (61.49 MB)</span>
+            </a>
+          </p>
+          <p>
+            <a target="_blank" href="https://cdn.alexsab.ru/pages/livan/livan-samara/manuals/s6pro-multimedia.pdf" class="text-gray-700 mb-4 flex items-center gap-1">
+              <Icon name="mdi:zip-box-outline" class="text-xl" />
+              <span>Руководство по мультимедиа (33.82 MB)</span>
+            </a>
+          </p>
+          <Button
+            view="link"
+            url="https://cdn.alexsab.ru/pages/livan/livan-samara/manuals/s6pro.zip"
+            title="Скачать каталог"
+            icon="mdi:download"
+            iconClasses="ml-2"
+            classes="inline-flex items-center"
+          />
+        </div>
+      </Fragment>
+    </CardMedia>
+  </div>
+
+  <div class="mb-10">
+    <CardMedia imgPlacement="right">
+      <Fragment slot="card-image">
+        <img 
+          src="https://cdn.alexsab.ru/pages/livan/livan-samara/parts/x6pro.webp" 
+          alt="Каталог аксессуаров LIVAN X6PRO" 
+          class="w-full h-full object-cover"
+        />
+      </Fragment>
+      <Fragment slot="card-content">
+        <div>
+          <h3 class="text-2xl font-bold mb-4">LIVAN X6PRO</h3>
+          <p>
+            <a target="_blank" href="https://cdn.alexsab.ru/pages/livan/livan-samara/manuals/x6pro-manual.pdf" class="text-gray-700 mb-4 flex items-center gap-1">
+              <Icon name="mdi:zip-box-outline" class="text-xl" />
+              <span>Руководство по эксплуатации (91.07 MB)</span>
+            </a>
+          </p>
+          <p>
+            <a target="_blank" href="https://cdn.alexsab.ru/pages/livan/livan-samara/manuals/x6pro-multimedia.pdf" class="text-gray-700 mb-4 flex items-center gap-1">
+              <Icon name="mdi:zip-box-outline" class="text-xl" />
+              <span>Руководство по мультимедиа (31.10 MB)</span>
+            </a>
+          </p>
+          <Button
+            view="link"
+            url="https://cdn.alexsab.ru/pages/livan/livan-samara/manuals/x6pro.zip"
+            title="Скачать каталог"
+            icon="mdi:download"
+            iconClasses="ml-2"
+            classes="inline-flex items-center"
+          />
+        </div>
+      </Fragment>
+    </CardMedia>
+  </div>
+
+  <CardMedia imgPlacement="right">
+    <Fragment slot="card-image">
+      <img 
+        src="https://cdn.alexsab.ru/pages/livan/livan-samara/parts/x3pro.webp" 
+        alt="Каталог аксессуаров LIVAN X3PRO" 
+        class="w-full h-full object-cover"
+      />
+    </Fragment>
+    <Fragment slot="card-content">
+      <div>
+        <h3 class="text-2xl font-bold mb-4">LIVAN X3PRO</h3>
+        <p>
+          <a target="_blank" href="https://cdn.alexsab.ru/pages/livan/livan-samara/manuals/x3pro-manual.pdf" class="text-gray-700 mb-4 flex items-center gap-1">
+            <Icon name="mdi:zip-box-outline" class="text-xl" />
+            <span>Руководство по эксплуатации (94.85 MB)</span>
+          </a>
+        </p>
+        <p>
+          <a target="_blank" href="https://cdn.alexsab.ru/pages/livan/livan-samara/manuals/x3pro-multimedia.pdf" class="text-gray-700 mb-4 flex items-center gap-1">
+            <Icon name="mdi:zip-box-outline" class="text-xl" />
+            <span>Руководство по мультимедиа (33.07 MB)</span>
+          </a>
+        </p>
+        <p>
+          <a target="_blank" href="https://cdn.alexsab.ru/pages/livan/livan-samara/manuals/x3pro-videoregistrator.pdf" class="text-gray-700 mb-4 flex items-center gap-1">
+            <Icon name="mdi:zip-box-outline" class="text-xl" />
+            <span>Видеорегистратор (1.38 MB)</span>
+          </a>
+        </p>
+        <Button
+          view="link"
+          url="https://cdn.alexsab.ru/pages/livan/livan-samara/manuals/x3pro.zip"
+          title="Скачать каталог"
+          icon="mdi:download"
+          iconClasses="ml-2"
+          classes="inline-flex items-center"
+        />
+      </div>
+    </Fragment>
+  </CardMedia>
+</PageLayout>
