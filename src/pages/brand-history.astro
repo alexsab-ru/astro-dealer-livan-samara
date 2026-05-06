@@ -1,9 +1,9 @@
 ---
 import PageLayout from '@/layouts/PageLayout.astro';
 import BrandHistoryElements from '@/components/BrandHistory/BrandHistoryElements.astro';
-import settings from '@/data/settings.json';
+import settings from '@/data/site/settings.json';
 const { site_name, legal_entity, legal_inn } = settings;
-import salons from '@/data/salons.json';
+import salons from '@/data/site/salons.json';
 const salon = salons[0]; //временно, наверное
 const history = [
 	{year: 2000, html: 'Основание бренда Shanghai Maple Automobiles.'},
