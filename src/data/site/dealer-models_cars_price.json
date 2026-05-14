@@ -3,12 +3,12 @@
     "brand": "Livan",
     "model": "ИКС3ПРО (X3PRO)",
     "price": 1585000,
-    "benefit": 294900
+    "benefit": "294900"
   },
   {
     "brand": "Livan",
     "model": "С6ПРО (S6PRO)",
     "price": 1810000,
-    "benefit": 254000
+    "benefit": "254000"
   }
 ]
