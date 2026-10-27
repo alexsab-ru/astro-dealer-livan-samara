@@ -1,0 +1,210 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <cars>
+    <car>
+      <unique_id>LLV2A3B20R0300009</unique_id>
+      <url>https://livan-samara.ru/cars/livan-s6-pro-15-amt-147-hp-premium-white-2024/</url>
+      <mark_id>Livan</mark_id>
+      <folder_id>S6 Pro</folder_id>
+      <year>2024</year>
+      <vin>LLV2A3B20R0300009</vin>
+      <price>2064000</price>
+      <sale_price>1810000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>254000</max_benefit>
+      <color>белый</color>
+      <availability>В наличии</availability>
+      <body_type>Седан</body_type>
+      <description>Автомобиль Livan S6 Pro, Premium, 1.5 AMT (147 л.с.), 2024 г., белый</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/livan-samara.ru/new/LLV2A3B20R0300009/0/full.webp?v=d6ed26e9a6a9</image>
+        <image>https://cdn.alexsab.ru/cars/livan-samara.ru/new/LLV2A3B20R0300009/1/full.webp?v=3c73de664dfa</image>
+        <image>https://cdn.alexsab.ru/cars/livan-samara.ru/new/LLV2A3B20R0300009/2/full.webp?v=c4dd9097e270</image>
+        <image>https://cdn.alexsab.ru/cars/livan-samara.ru/new/LLV2A3B20R0300009/3/full.webp?v=3574bddc3f58</image>
+        <image>https://cdn.alexsab.ru/cars/livan-samara.ru/new/LLV2A3B20R0300009/4/full.webp?v=9bf5935de1f9</image>
+        <image>https://cdn.alexsab.ru/cars/livan-samara.ru/new/LLV2A3B20R0300009/5/full.webp?v=494f8c5d782d</image>
+        <image>https://cdn.alexsab.ru/cars/livan-samara.ru/new/LLV2A3B20R0300009/6/full.webp?v=659634cd888d</image>
+        <image>https://cdn.alexsab.ru/cars/livan-samara.ru/new/LLV2A3B20R0300009/7/full.webp?v=355353aae142</image>
+        <image>https://cdn.alexsab.ru/cars/livan-samara.ru/new/LLV2A3B20R0300009/8/full.webp?v=548a249ff656</image>
+        <image>https://cdn.alexsab.ru/cars/livan-samara.ru/new/LLV2A3B20R0300009/9/full.webp?v=93dac23e90c6</image>
+        <image>https://cdn.alexsab.ru/cars/livan-samara.ru/new/LLV2A3B20R0300009/10/full.webp?v=513ebdf177b0</image>
+        <image>https://cdn.alexsab.ru/cars/livan-samara.ru/new/LLV2A3B20R0300009/11/full.webp?v=5fe76c61203a</image>
+        <image>https://cdn.alexsab.ru/cars/livan-samara.ru/new/LLV2A3B20R0300009/12/full.webp?v=ebfd3f38388a</image>
+        <image>https://cdn.alexsab.ru/cars/livan-samara.ru/new/LLV2A3B20R0300009/13/full.webp?v=8621486c9b43</image>
+        <image>https://cdn.alexsab.ru/cars/livan-samara.ru/new/LLV2A3B20R0300009/14/full.webp?v=99b922d7a6e9</image>
+        <image>https://cdn.alexsab.ru/cars/livan-samara.ru/new/LLV2A3B20R0300009/15/full.webp?v=678a85add140</image>
+        <image>https://cdn.alexsab.ru/cars/livan-samara.ru/new/LLV2A3B20R0300009/16/full.webp?v=da259505f5c1</image>
+        <image>https://cdn.alexsab.ru/cars/livan-samara.ru/new/LLV2A3B20R0300009/17/full.webp?v=4b9abd302628</image>
+        <image>https://cdn.alexsab.ru/cars/livan-samara.ru/new/LLV2A3B20R0300009/18/full.webp?v=4b19c106c6fa</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>LLV2A3B27R0300024</unique_id>
+      <url>https://livan-samara.ru/cars/livan-s6-pro-15-amt-147-hp-premium-white-2024/</url>
+      <mark_id>Livan</mark_id>
+      <folder_id>S6 Pro</folder_id>
+      <year>2024</year>
+      <vin>LLV2A3B27R0300024</vin>
+      <price>2064000</price>
+      <sale_price>1810000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>254000</max_benefit>
+      <color>белый</color>
+      <availability>В наличии</availability>
+      <body_type>Седан</body_type>
+      <description>Автомобиль Livan S6 Pro, Premium, 1.5 AMT (147 л.с.), 2024 г., белый</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/livan-samara.ru/new/LLV2A3B20R0300009/0/full.webp?v=d6ed26e9a6a9</image>
+        <image>https://cdn.alexsab.ru/cars/livan-samara.ru/new/LLV2A3B20R0300009/1/full.webp?v=3c73de664dfa</image>
+        <image>https://cdn.alexsab.ru/cars/livan-samara.ru/new/LLV2A3B20R0300009/2/full.webp?v=c4dd9097e270</image>
+        <image>https://cdn.alexsab.ru/cars/livan-samara.ru/new/LLV2A3B20R0300009/3/full.webp?v=3574bddc3f58</image>
+        <image>https://cdn.alexsab.ru/cars/livan-samara.ru/new/LLV2A3B20R0300009/4/full.webp?v=9bf5935de1f9</image>
+        <image>https://cdn.alexsab.ru/cars/livan-samara.ru/new/LLV2A3B20R0300009/5/full.webp?v=494f8c5d782d</image>
+        <image>https://cdn.alexsab.ru/cars/livan-samara.ru/new/LLV2A3B20R0300009/6/full.webp?v=659634cd888d</image>
+        <image>https://cdn.alexsab.ru/cars/livan-samara.ru/new/LLV2A3B20R0300009/7/full.webp?v=355353aae142</image>
+        <image>https://cdn.alexsab.ru/cars/livan-samara.ru/new/LLV2A3B20R0300009/8/full.webp?v=548a249ff656</image>
+        <image>https://cdn.alexsab.ru/cars/livan-samara.ru/new/LLV2A3B20R0300009/9/full.webp?v=93dac23e90c6</image>
+        <image>https://cdn.alexsab.ru/cars/livan-samara.ru/new/LLV2A3B20R0300009/10/full.webp?v=513ebdf177b0</image>
+        <image>https://cdn.alexsab.ru/cars/livan-samara.ru/new/LLV2A3B20R0300009/11/full.webp?v=5fe76c61203a</image>
+        <image>https://cdn.alexsab.ru/cars/livan-samara.ru/new/LLV2A3B20R0300009/12/full.webp?v=ebfd3f38388a</image>
+        <image>https://cdn.alexsab.ru/cars/livan-samara.ru/new/LLV2A3B20R0300009/13/full.webp?v=8621486c9b43</image>
+        <image>https://cdn.alexsab.ru/cars/livan-samara.ru/new/LLV2A3B20R0300009/14/full.webp?v=99b922d7a6e9</image>
+        <image>https://cdn.alexsab.ru/cars/livan-samara.ru/new/LLV2A3B20R0300009/15/full.webp?v=678a85add140</image>
+        <image>https://cdn.alexsab.ru/cars/livan-samara.ru/new/LLV2A3B20R0300009/16/full.webp?v=da259505f5c1</image>
+        <image>https://cdn.alexsab.ru/cars/livan-samara.ru/new/LLV2A3B20R0300009/17/full.webp?v=4b9abd302628</image>
+        <image>https://cdn.alexsab.ru/cars/livan-samara.ru/new/LLV2A3B20R0300009/18/full.webp?v=4b19c106c6fa</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>LLV2A3B2XR0300051</unique_id>
+      <url>https://livan-samara.ru/cars/livan-s6-pro-15-amt-147-hp-premium-gray-2024/</url>
+      <mark_id>Livan</mark_id>
+      <folder_id>S6 Pro</folder_id>
+      <year>2024</year>
+      <vin>LLV2A3B2XR0300051</vin>
+      <price>2074000</price>
+      <sale_price>1820000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>254000</max_benefit>
+      <color>серый</color>
+      <availability>В наличии</availability>
+      <body_type>Седан</body_type>
+      <description>Автомобиль Livan S6 Pro, Premium, 1.5 AMT (147 л.с.), 2024 г., серый</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/livan-samara.ru/new/LLV2A3B2XR0300051/0/full.webp?v=148c24fec7e4</image>
+        <image>https://cdn.alexsab.ru/cars/livan-samara.ru/new/LLV2A3B2XR0300051/1/full.webp?v=aee982d3d436</image>
+        <image>https://cdn.alexsab.ru/cars/livan-samara.ru/new/LLV2A3B2XR0300051/2/full.webp?v=e350a0f215c9</image>
+        <image>https://cdn.alexsab.ru/cars/livan-samara.ru/new/LLV2A3B2XR0300051/3/full.webp?v=2c5004174623</image>
+        <image>https://cdn.alexsab.ru/cars/livan-samara.ru/new/LLV2A3B2XR0300051/4/full.webp?v=47499ba1498e</image>
+        <image>https://cdn.alexsab.ru/cars/livan-samara.ru/new/LLV2A3B2XR0300051/5/full.webp?v=3e291736ccdb</image>
+        <image>https://cdn.alexsab.ru/cars/livan-samara.ru/new/LLV2A3B2XR0300051/6/full.webp?v=bba7fe5dde20</image>
+        <image>https://cdn.alexsab.ru/cars/livan-samara.ru/new/LLV2A3B2XR0300051/7/full.webp?v=3a3e501b2cdf</image>
+        <image>https://cdn.alexsab.ru/cars/livan-samara.ru/new/LLV2A3B2XR0300051/8/full.webp?v=cb0c28a4e44b</image>
+        <image>https://cdn.alexsab.ru/cars/livan-samara.ru/new/LLV2A3B2XR0300051/9/full.webp?v=f8947c1d0325</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>LLV2C3B24R0212266</unique_id>
+      <url>https://livan-samara.ru/cars/livan-x3-pro-15-cvt-103-hp-luxury-gold-2024/</url>
+      <mark_id>Livan</mark_id>
+      <folder_id>X3 Pro</folder_id>
+      <year>2024</year>
+      <vin>LLV2C3B24R0212266</vin>
+      <price>1879900</price>
+      <sale_price>1585000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>294900</max_benefit>
+      <availability>В наличии</availability>
+      <description>Автомобиль Livan X3 Pro, Luxury, 1.5 CVT (103 л.с.), 2024 г.</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/livan-samara.ru/new/LLV2C3B24R0212266/0/full.webp?v=87306bac7536</image>
+        <image>https://cdn.alexsab.ru/cars/livan-samara.ru/new/LLV2C3B24R0212266/1/full.webp?v=b272e46f019d</image>
+        <image>https://cdn.alexsab.ru/cars/livan-samara.ru/new/LLV2C3B24R0212266/2/full.webp?v=995086328342</image>
+        <image>https://cdn.alexsab.ru/cars/livan-samara.ru/new/LLV2C3B24R0212266/3/full.webp?v=67f06d83e454</image>
+        <image>https://cdn.alexsab.ru/cars/livan-samara.ru/new/LLV2C3B24R0212266/4/full.webp?v=1726cca00294</image>
+        <image>https://cdn.alexsab.ru/cars/livan-samara.ru/new/LLV2C3B24R0212266/5/full.webp?v=5a52f174f312</image>
+        <image>https://cdn.alexsab.ru/cars/livan-samara.ru/new/LLV2C3B24R0212266/6/full.webp?v=461fd2005423</image>
+        <image>https://cdn.alexsab.ru/cars/livan-samara.ru/new/LLV2C3B24R0212266/7/full.webp?v=ad43968f378e</image>
+        <image>https://cdn.alexsab.ru/cars/livan-samara.ru/new/LLV2C3B24R0212266/8/full.webp?v=0995479e1a63</image>
+        <image>https://cdn.alexsab.ru/cars/livan-samara.ru/new/LLV2C3B24R0212266/9/full.webp?v=35d7bd0aec01</image>
+        <image>https://cdn.alexsab.ru/cars/livan-samara.ru/new/LLV2C3B24R0212266/10/full.webp?v=de02d22a8e6c</image>
+        <image>https://cdn.alexsab.ru/cars/livan-samara.ru/new/LLV2C3B24R0212266/11/full.webp?v=c6e862631db9</image>
+        <image>https://cdn.alexsab.ru/cars/livan-samara.ru/new/LLV2C3B24R0212266/12/full.webp?v=9a63f43d8188</image>
+        <image>https://cdn.alexsab.ru/cars/livan-samara.ru/new/LLV2C3B24R0212266/13/full.webp?v=37da0c492b13</image>
+        <image>https://cdn.alexsab.ru/cars/livan-samara.ru/new/LLV2C3B24R0212266/14/full.webp?v=02d5e03e5cfa</image>
+        <image>https://cdn.alexsab.ru/cars/livan-samara.ru/new/LLV2C3B24R0212266/15/full.webp?v=89e034b839f0</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>LLV2C3B29R0212571</unique_id>
+      <url>https://livan-samara.ru/cars/livan-x3-pro-15-cvt-103-hp-luxury-gray-2024/</url>
+      <mark_id>Livan</mark_id>
+      <folder_id>X3 Pro</folder_id>
+      <year>2024</year>
+      <vin>LLV2C3B29R0212571</vin>
+      <price>1879900</price>
+      <sale_price>1585000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>294900</max_benefit>
+      <color>серый</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Livan X3 Pro, Luxury, 1.5 CVT (103 л.с.), 2024 г., серый</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/livan-samara.ru/new/LLV2C3B29R0212571/0/full.webp?v=51957ed61c0f</image>
+        <image>https://cdn.alexsab.ru/cars/livan-samara.ru/new/LLV2C3B29R0212571/1/full.webp?v=7bbaa3f2afaa</image>
+        <image>https://cdn.alexsab.ru/cars/livan-samara.ru/new/LLV2C3B29R0212571/2/full.webp?v=d0d0051f2d3e</image>
+        <image>https://cdn.alexsab.ru/cars/livan-samara.ru/new/LLV2C3B29R0212571/3/full.webp?v=3b4a0c13dcda</image>
+        <image>https://cdn.alexsab.ru/cars/livan-samara.ru/new/LLV2C3B29R0212571/4/full.webp?v=623166aceb0b</image>
+        <image>https://cdn.alexsab.ru/cars/livan-samara.ru/new/LLV2C3B29R0212571/5/full.webp?v=48cedf788f7d</image>
+        <image>https://cdn.alexsab.ru/cars/livan-samara.ru/new/LLV2C3B29R0212571/6/full.webp?v=306cfb493d82</image>
+        <image>https://cdn.alexsab.ru/cars/livan-samara.ru/new/LLV2C3B29R0212571/7/full.webp?v=6ecbe3e50cc1</image>
+        <image>https://cdn.alexsab.ru/cars/livan-samara.ru/new/LLV2C3B29R0212571/8/full.webp?v=9288531a1d48</image>
+        <image>https://cdn.alexsab.ru/cars/livan-samara.ru/new/LLV2C3B29R0212571/9/full.webp?v=559f37f8117c</image>
+        <image>https://cdn.alexsab.ru/cars/livan-samara.ru/new/LLV2C3B29R0212571/10/full.webp?v=13e34710ac48</image>
+        <image>https://cdn.alexsab.ru/cars/livan-samara.ru/new/LLV2C3B29R0212571/11/full.webp?v=b71514a9ea68</image>
+        <image>https://cdn.alexsab.ru/cars/livan-samara.ru/new/LLV2C3B29R0212571/12/full.webp?v=7c24f4c40ffa</image>
+        <image>https://cdn.alexsab.ru/cars/livan-samara.ru/new/LLV2C3B29R0212571/13/full.webp?v=77031f173109</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>LLV2C3B2XR0206987</unique_id>
+      <url>https://livan-samara.ru/cars/livan-x3-pro-15-cvt-103-hp-luxury-blue-2024/</url>
+      <mark_id>Livan</mark_id>
+      <folder_id>X3 Pro</folder_id>
+      <year>2024</year>
+      <vin>LLV2C3B2XR0206987</vin>
+      <price>1879900</price>
+      <sale_price>1585000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>294900</max_benefit>
+      <color>синий</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Livan X3 Pro, Luxury, 1.5 CVT (103 л.с.), 2024 г., синий</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/livan-samara.ru/new/LLV2C3B2XR0206987/0/full.webp?v=cc4df210163f</image>
+        <image>https://cdn.alexsab.ru/cars/livan-samara.ru/new/LLV2C3B2XR0206987/1/full.webp?v=c3a90ecccde4</image>
+        <image>https://cdn.alexsab.ru/cars/livan-samara.ru/new/LLV2C3B2XR0206987/2/full.webp?v=77f3775c8aee</image>
+        <image>https://cdn.alexsab.ru/cars/livan-samara.ru/new/LLV2C3B2XR0206987/3/full.webp?v=2f58fcb9c5c0</image>
+        <image>https://cdn.alexsab.ru/cars/livan-samara.ru/new/LLV2C3B2XR0206987/4/full.webp?v=baf8e654a5fe</image>
+        <image>https://cdn.alexsab.ru/cars/livan-samara.ru/new/LLV2C3B2XR0206987/5/full.webp?v=cc7779642fde</image>
+        <image>https://cdn.alexsab.ru/cars/livan-samara.ru/new/LLV2C3B2XR0206987/6/full.webp?v=6eb169c42e44</image>
+        <image>https://cdn.alexsab.ru/cars/livan-samara.ru/new/LLV2C3B2XR0206987/7/full.webp?v=b7f6c4d3ccbf</image>
+        <image>https://cdn.alexsab.ru/cars/livan-samara.ru/new/LLV2C3B2XR0206987/8/full.webp?v=cc9e79f810a5</image>
+        <image>https://cdn.alexsab.ru/cars/livan-samara.ru/new/LLV2C3B2XR0206987/9/full.webp?v=39a3b308e0ab</image>
+        <image>https://cdn.alexsab.ru/cars/livan-samara.ru/new/LLV2C3B2XR0206987/10/full.webp?v=2667a7737a38</image>
+        <image>https://cdn.alexsab.ru/cars/livan-samara.ru/new/LLV2C3B2XR0206987/11/full.webp?v=5acbd042d876</image>
+        <image>https://cdn.alexsab.ru/cars/livan-samara.ru/new/LLV2C3B2XR0206987/12/full.webp?v=0b4bc031f952</image>
+        <image>https://cdn.alexsab.ru/cars/livan-samara.ru/new/LLV2C3B2XR0206987/13/full.webp?v=f4acf00f0287</image>
+        <image>https://cdn.alexsab.ru/cars/livan-samara.ru/new/LLV2C3B2XR0206987/14/full.webp?v=d64ed1f937b8</image>
+        <image>https://cdn.alexsab.ru/cars/livan-samara.ru/new/LLV2C3B2XR0206987/15/full.webp?v=c74819fc163a</image>
+        <image>https://cdn.alexsab.ru/cars/livan-samara.ru/new/LLV2C3B2XR0206987/16/full.webp?v=e3f39cc11b77</image>
+      </images>
+    </car>
+  </cars>
+</data>
